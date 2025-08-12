@@ -1,0 +1,10 @@
+﻿"Symbol";"Value";"Unit";
+"TraceParts.PartNumber";"90-08022019-032080";"";
+"REFERENCE";"BX0013-1";"";
+"TraceParts.PartTitle";"Battery Holders, BX0013-1";"";
+"TraceParts.InstanceId";"90-08022019-0320802N3XX9WWY2MK673V115V3T3RA";"";
+"SUPPLIER";"Bulgin";"";
+"DESIGN";"Battery Holders, BX0013-1";"";
+"TRACEPARTS";"TRACEPARTS";"";
+"TraceParts.PartLanguage";"en";"";
+"TraceParts.PartVersion";"1.0.1";"";
